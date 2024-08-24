@@ -1,0 +1,22 @@
+21
+Load Image
+Save Image
+Change Brightness
+Linear Contrast Stretching
+Adjust Sharpness
+Convert to Binary
+Image Resize By Certain Ratio
+Image Rotation
+Flip an Image
+Crop an Image
+Join two Images
+Apply Mean or Median Filter
+Apply General Linear Filter From File
+Enhance and Image by Applying Filter
+Derivative Mask
+Find Edges by Derivative
+Translate and Image
+Scale an Image
+Rotate an Image
+Flip an Image
+Exit
